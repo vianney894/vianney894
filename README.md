@@ -21,7 +21,7 @@ I'm vianney john paul, a 3nd-year ai&ds student
   <a href="www.linkedin.com/in/vianney-john-poul-8299832a8">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="[https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==](https://www.instagram.com/vj_vianney?igsh=a29qMjV5cTJoenls)">
+  <a href="https://www.instagram.com/vj_vianney?igsh=a29qMjV5cTJoenls">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="">
