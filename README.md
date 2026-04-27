@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Vianney%20John%20Paul&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer 
+I'm vianney john paul, a 3nd-year ai&ds student 
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
@@ -15,28 +15,28 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="mailto:vianneyjohnpoul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+  <a href="www.linkedin.com/in/vianney-john-poul-8299832a8">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+  <a href="[https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==](https://www.instagram.com/vj_vianney?igsh=a29qMjV5cTJoenls)">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+  <a href="">
     <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
   </a>
-  <a href="https://discord.com/users/805123459566010417">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saboo24">
+  <a href="https://github.com/vianney894">
     <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
   </a>
-  <a href="https://github.com/Saboo24">
+  <a href="https://github.com/vianney894">
     <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
@@ -46,7 +46,7 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,react&theme=light" />
   </a>
 </p>
 
@@ -55,18 +55,9 @@ I'm Amine Hamzaoui, a 2nd-year Computer Science student and Frontend Developer
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,unity&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,ps,vercel&theme=light" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 ---
 
