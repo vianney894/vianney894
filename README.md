@@ -18,7 +18,7 @@ I'm vianney john paul, a 3nd-year ai&ds student
   <a href="mailto:vianneyjohnpoul@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="www.linkedin.com/in/vianney-john-poul-8299832a8">
+  <a href="www.linkedin.com/in/vianneyjohnpaul">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://www.instagram.com/vj_vianney?igsh=a29qMjV5cTJoenls">
